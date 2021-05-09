@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AppDelegate-SceneDelegate/SupportingMultipleWindowsOnIPad/Gallery.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AppDelegate-SceneDelegate/AppDelegate-VS-SceneDelegate/AppDelegate-VS-SceneDelegate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIKit vs Foundation.playground">
+   </FileRef>
+</Workspace>
